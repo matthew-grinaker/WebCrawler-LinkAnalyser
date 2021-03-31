@@ -1,0 +1,11 @@
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\Matthew Grinaker\source\Web Crawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb

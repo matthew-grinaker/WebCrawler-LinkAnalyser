@@ -1,0 +1,15 @@
+Starting URL: https://monzo.com/
+Running crawler with 20 simultaneous tasks.
+
+Total crawling time: 45 s
+
+Total No. of Links Crawled: 555
+
+==============Broken Links Found (3) ==================
+
+https://monzo.com/help/monzo-card-pin/a-new-card-is-coming-but-i-didn&
+https://monzo.com/help/payments-troubleshooting/why-can&
+https://monzo.com/legal/version-1-0/fee-glossary.pdf
+
+======================================================
+
