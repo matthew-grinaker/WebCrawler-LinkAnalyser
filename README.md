@@ -1,7 +1,8 @@
 # WebCrawler-LinkAnalyser
 
-WebCrawler is a .NET console web crawler application written in C# that crawls a website (URL) and returns all the links (web pages) on the entire website/domain, 
-not just on a single web page, as well as any broken links that were found on the web page.
+WebCrawler is a .NET console web crawler application written in C# that crawls a website (URL) and returns all the links (web pages) found on the entire website/domain (it does not follow external links) as well as report any broken links that were found on the domain. 
+
+The crawl result is logged in a textfile called "crawlResult.txt".
 
 To run the program pass the following:
 1) string - The website URL.
